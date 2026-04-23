@@ -1,4 +1,6 @@
-# EasyOCR (deep learning OCR model)
+# tensorflow.keras.models 
+speech_recognition
+EasyOCR (deep learning OCR model)
 Text detection & recognition
 Confidence scoring (probability threshold)
 Bounding box prediction
